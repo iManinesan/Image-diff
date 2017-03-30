@@ -16,10 +16,15 @@ Also  focused on developing a python based image-diff library and uses ImageMagi
 ## Usage
 Run `python ui.py`.
 
-## Features include:
+Visual tool contains features:
+  
   Side-by-side diff view
   
   Onion skin view
   
   Swipe View
+  
+![Image-diff](https://github.com/linganesan/Image-diff/blob/master/data/screenshot/readme.jpg)
+
+
 
