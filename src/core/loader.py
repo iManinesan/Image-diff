@@ -8,7 +8,7 @@ from scipy import misc
 import utils
 
 def load_image_from_file(file):
-    return Image.(filename=file)
+    return Image(filename=file)
 
 
 def load_image_from_url(url):
