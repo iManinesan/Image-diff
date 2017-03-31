@@ -83,6 +83,8 @@ def twoup():
 def differ():
     slidebar.place_forget()
     difflabel.place_forget()
+    label1.place_forget()
+    label2.place_forget()    
     showdiff(diffimage())
     # btn_differ.config(state='disabled')
 
