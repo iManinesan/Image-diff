@@ -18,13 +18,16 @@ Run `python ui.py`.
 
 Visual tool contains features:
   
-  Side-by-side diff view
+ #### Side-by-side diff view
+  ![side-Image-diff](https://github.com/linganesan/Image-diff/blob/master/data/screenshot/Screenshot%20from%202017-04-05%2023-54-06.png)
+ 
+ #### Onion skin view
+  ![onion-image-diff](https://github.com/linganesan/Image-diff/blob/master/data/screenshot/Screenshot%20from%202017-04-05%2023-54-22.png)
+ 
+ ####  Swipe View
   
-  Onion skin view
-  
-  Swipe View
-  
-![Image-diff](https://github.com/linganesan/Image-diff/blob/master/data/screenshot/readme.jpg)
+![swipe-Image-diff](https://github.com/linganesan/Image-diff/blob/master/data/screenshot/Screenshot%20from%202017-04-05%2023-54-15.png)
 
-
+#### Difference View
+![Diff](https://github.com/linganesan/Image-diff/blob/master/data/screenshot/Screenshot%20from%202017-04-05%2023-54-26.png)
 
