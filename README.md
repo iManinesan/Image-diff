@@ -1,8 +1,8 @@
 # Image-diff
-Visualize image diffs through python based GUI
+Visualize image diffs through python based GUI, also focused on developing a python based image-diff library and uses ImageMagick for image processing.
 
-Inspired by [git Image diff]() and [Resemble.js](http://huddle.github.io/Resemble.js/)
-Also  focused on developing a python based image-diff library and uses ImageMagick for image processing.
+
+Inspired by [git Image diff](https://help.github.com/articles/rendering-and-diffing-images) and [Resemble.js](http://huddle.github.io/Resemble.js/)
 
 ## Install the dependencies:
  Requires
